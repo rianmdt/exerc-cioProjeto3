@@ -1,0 +1,77 @@
+body{
+    font-family: Titillium-web, sans serif;
+}
+
+.section-title, .section-title:hover{
+    font-family: Merriweather, sans-serif;
+    color:#fff ;
+}
+
+a.nav-link{
+        color: rgb(116, 45, 116);
+        background-color: #fff;
+}
+
+a.nav-link:hover{
+    color: rgb(172, 9, 172);
+}
+header{
+    background-color:rgb(116, 45, 116) ;
+}
+
+
+h2.section-title,
+h2.section-title:hover,
+h3.section-title,
+h3.section-title:hover{
+    color:rgb(116, 45, 116) ;
+}
+
+
+.section-title span,
+.section-subtitle span{
+    color: white;
+}
+
+#sobre-o-site,
+#sobre-os-artistas{
+    background-color: rgb(238, 154, 238);
+}
+
+#musicas,
+#fale-conosco{
+    background-color: rgb(247, 180, 238);
+}
+
+.button-ouça,
+.button-ouça:hover{
+    background-color: rgb(116, 45, 116);
+    color: #fff;
+    font-weight: bold;
+}
+
+.card-header{
+    color:rgb(116, 45, 116) ;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+    }
+    
+    .social-links a{
+        text-decoration: none;
+    }
+
+
+    .text-colored{
+        color:rgb(116, 45, 116) ;
+    }
+
+    #fale-conosco button{
+        background-color:rgb(116, 45, 116) ;
+        color: #fff;
+    }
+
+    
+    
